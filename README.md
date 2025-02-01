@@ -3,7 +3,7 @@
 🌍 Building Scalable, Secure, and Automated Cloud Solutions
 
 
-💡 About Me
+**💡 About Me**
 
 🔹 Passionate about Cloud Security, DevOps, and Infrastructure Automation
 
@@ -13,13 +13,16 @@
 
 🔹 On a mission to master DevOps, Cloud Security, and Automation
 
-🔨 Technologies & Tools
+
+
+**🔨 Technologies & Tools**
 
 ☁️ Cloud & Infrastructure
 
 🔐 Security & Compliance
 
 ⚙️ DevOps & Automation
+
 
 **Skills**
 *   AWS 
@@ -29,26 +32,7 @@
 *   Git
 
 
-📌 Featured Projects
-
-
-🚀 NFL Schedule API Management System (AWS, Docker, API Gateway, JavaScript)
-📌 A containerized NFL API schedule management system with a fully responsive frontend
-🔗 GitHub Repo | 🔗 Medium Article
-
-
-📽️ NCAA Game Highlight Processor (AWS S3, MediaConvert, Docker, Python)
-📌 Automated video highlight retrieval, storage, and processing for sports media
-🔗 GitHub Repo | 🔗 Medium Article
-
-
-☁️ AWS Data Lake for NBA Analytics (AWS S3, Glue, Athena, Python)
-
-📌 Built a serverless NBA data lake for advanced analytics and querying
-
-🔗 GitHub Repo
-
-📜 Certifications
+**📜 Certifications**
 
 ✅ AWS Solutions Architect - Associate
 
