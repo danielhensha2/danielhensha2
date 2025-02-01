@@ -1,5 +1,5 @@
 
-🚀 Daniel Osarobo | DevOps & Cloud Security Engineer
+**Daniel Osarobo | DevOps & Cloud Security Engineer**
 
 🌍 Building Scalable, Secure, and Automated Cloud Solutions
 ---
