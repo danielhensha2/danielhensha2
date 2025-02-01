@@ -35,7 +35,7 @@
 
 ---
 
-##**📜 Certifications**
+**📜 Certifications**
 
 ✅ AWS Solutions Architect - Associate
 
@@ -48,12 +48,11 @@
 ✅ Google Cybersecurity Professional Certificate
 
 ---
-
-##📫 Let's Connect!
+📫 Let's Connect!
 
 📌 LinkedIn: linkedin.com/in/daniel-osarobo
 📌 Medium Blog: medium.com/@danielhensha2
 📌 GitHub: github.com/danielhensha2
-
+---
 🔥 "Executing, Not Just Learning!" 🔥
 
