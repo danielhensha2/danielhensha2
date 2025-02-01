@@ -3,7 +3,7 @@
 🌍 Building Scalable, Secure, and Automated Cloud Solutions
 
 
-##**💡 About Me**
+**💡 About Me**
 
 🔹 Passionate about Cloud Security, DevOps, and Infrastructure Automation
 
@@ -13,9 +13,9 @@
 
 🔹 On a mission to master DevOps, Cloud Security, and Automation
 
+---
 
-
-##**🔨 Technologies & Tools**
+**🔨 Technologies & Tools**
 
 ☁️ Cloud & Infrastructure
 
@@ -23,14 +23,16 @@
 
 ⚙️ DevOps & Automation
 
+---
 
-##**Skills**
+**Skills**
 *   AWS 
 *   Docker
 *   Python
 *   Terraform
 *   Git
 
+---
 
 ##**📜 Certifications**
 
@@ -44,6 +46,7 @@
 
 ✅ Google Cybersecurity Professional Certificate
 
+---
 
 ##📫 Let's Connect!
 
