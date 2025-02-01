@@ -51,8 +51,10 @@
 📫 Let's Connect!
 
 📌 LinkedIn: linkedin.com/in/daniel-osarobo
+
+
 📌 Medium Blog: medium.com/@danielhensha2
-📌 GitHub: github.com/danielhensha2
+
 ---
 🔥 "Executing, Not Just Learning!" 🔥
 
