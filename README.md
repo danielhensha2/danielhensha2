@@ -44,11 +44,15 @@
 
 📜 Certifications
 
-*✅ AWS Solutions Architect - Associate
-*✅ CompTIA Security+
-*✅ AWS Certified Cloud Practitioner
-*✅ ISC2 Certified in Cybersecurity (CC)
-*✅ Google Cybersecurity Professional Certificate
+✅ AWS Solutions Architect - Associate
+
+✅ CompTIA Security+
+
+✅ AWS Certified Cloud Practitioner
+
+✅ ISC2 Certified in Cybersecurity (CC)
+
+✅ Google Cybersecurity Professional Certificate
 
 
 📫 Let's Connect!
