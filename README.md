@@ -1,16 +1,22 @@
 ## Hi there 👋
+**Hi, I'm Daniel Osarobo**
+I'm a Cloud Engineer passionate about Cloud Security and DevOps. 
 
-<!--
-**danielhensha2/danielhensha2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Skills**
 
-Here are some ideas to get you started:
+*   AWS 
+*   Docker
+*   Python
+*   Terraform
+*   Git
+*   [Add more skills here]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contact**
+
+*   [Email Address]
+*   [LinkedIn Profile URL] 
+*   [Twitter Handle (optional)]
+
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&count_private=true) 
+
+[GitHub Streak Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=tokyonight) 
