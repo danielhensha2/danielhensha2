@@ -3,7 +3,7 @@
 🌍 Building Scalable, Secure, and Automated Cloud Solutions
 
 
-**💡 About Me**
+##**💡 About Me**
 
 🔹 Passionate about Cloud Security, DevOps, and Infrastructure Automation
 
@@ -15,7 +15,7 @@
 
 
 
-**🔨 Technologies & Tools**
+##**🔨 Technologies & Tools**
 
 ☁️ Cloud & Infrastructure
 
@@ -24,7 +24,7 @@
 ⚙️ DevOps & Automation
 
 
-**Skills**
+##**Skills**
 *   AWS 
 *   Docker
 *   Python
@@ -32,7 +32,7 @@
 *   Git
 
 
-**📜 Certifications**
+##**📜 Certifications**
 
 ✅ AWS Solutions Architect - Associate
 
@@ -45,7 +45,8 @@
 ✅ Google Cybersecurity Professional Certificate
 
 
-📫 Let's Connect!
+##📫 Let's Connect!
+
 📌 LinkedIn: linkedin.com/in/daniel-osarobo
 📌 Medium Blog: medium.com/@danielhensha2
 📌 GitHub: github.com/danielhensha2
