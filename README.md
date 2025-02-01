@@ -4,15 +4,21 @@
 
 
 💡 About Me
+
 🔹 Passionate about Cloud Security, DevOps, and Infrastructure Automation
+
 🔹 Skilled in AWS, Terraform, Docker, Kubernetes, CI/CD, and Security Best Practices
+
 🔹 Building real-world cloud projects, documenting my journey, and sharing insights through blogs
+
 🔹 On a mission to master DevOps, Cloud Security, and Automation
 
 🔨 Technologies & Tools
 
 ☁️ Cloud & Infrastructure
+
 🔐 Security & Compliance
+
 ⚙️ DevOps & Automation
 
 **Skills**
