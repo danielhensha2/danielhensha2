@@ -26,16 +26,12 @@
 
 
 🚀 NFL Schedule API Management System (AWS, Docker, API Gateway, JavaScript)
-
 📌 A containerized NFL API schedule management system with a fully responsive frontend
-
 🔗 GitHub Repo | 🔗 Medium Article
 
 
 📽️ NCAA Game Highlight Processor (AWS S3, MediaConvert, Docker, Python)
-
 📌 Automated video highlight retrieval, storage, and processing for sports media
-
 🔗 GitHub Repo | 🔗 Medium Article
 
 
