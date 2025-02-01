@@ -43,13 +43,12 @@
 🔗 GitHub Repo
 
 📜 Certifications
-✅ AWS Solutions Architect - Associate
-✅ CompTIA Security+
-✅ AWS Certified Cloud Practitioner
-✅ ISC2 Certified in Cybersecurity (CC)
-✅ Google Cybersecurity Professional Certificate
 
-📊 GitHub Stats
+*✅ AWS Solutions Architect - Associate
+*✅ CompTIA Security+
+*✅ AWS Certified Cloud Practitioner
+*✅ ISC2 Certified in Cybersecurity (CC)
+*✅ Google Cybersecurity Professional Certificate
 
 
 📫 Let's Connect!
